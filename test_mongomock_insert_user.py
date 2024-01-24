@@ -1,7 +1,7 @@
 from datetime import datetime
 from pymongo.mongo_client import MongoClient
-from fixtures import mongo_client_fixture
-from crud import insert_user
+from MongoMock.fixtures import mongo_client_fixture
+from MongoMock.crud import insert_user
 
 use_fixtures = [mongo_client_fixture]
 

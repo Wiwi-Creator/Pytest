@@ -1,0 +1,11 @@
+/Life
+/logs
+/note
+/workshop
+/workspace
+/Gitbook
+/GitHub
+/workspace
+__pycache__
+*.__pycache__
+.pytest_cache
